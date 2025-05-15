@@ -4,7 +4,9 @@ Gesture-Controlled LED System Using Hand Tracking and Arduino for Mining Applica
 ________________________________________
 Objective:
 To develop a real-time gesture-based LED control system using computer vision (Mediapipe) and Arduino, aiming to provide a hands-free and intuitive communication or signaling solution for underground mining environments where traditional controls are impractical or unsafe.
-________________________________________
+
+NOTE: The Arduino & Python code was written for 5 LED system but, for simplicity the project demonstrated in circuit diagram is of 3 LED system. In order to make % LED system just add more LED with respect arduino pins mention in the code. 
+_______________________________________
 Components Required:
 Hardware:
 •	Arduino Uno (or compatible board)
